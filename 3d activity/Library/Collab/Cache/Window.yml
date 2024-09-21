@@ -15,7 +15,10 @@ MonoBehaviour:
   SimpleSelectedItems:
     m_Keys:
     - .collabignore
+<<<<<<< HEAD
     - Assets/Scenes.meta
+=======
+>>>>>>> origin/main
     - Assets/Scenes/SampleScene.unity
     - Assets/Scenes/SampleScene.unity.meta
     - Assets/scriptor.meta
@@ -25,6 +28,7 @@ MonoBehaviour:
     - Assets/scriptor/object_movement.cs.meta
     - Packages/manifest.json
     - Packages/packages-lock.json
+<<<<<<< HEAD
     - ProjectSettings/AudioManager.asset
     - ProjectSettings/ClusterInputManager.asset
     - ProjectSettings/DynamicsManager.asset
@@ -46,6 +50,11 @@ MonoBehaviour:
     - ProjectSettings/VersionControlSettings.asset
     - 
     m_Values: 00000000000000000000000000000000000000000000000000000000000000
+=======
+    - ProjectSettings/ProjectVersion.txt
+    - 
+    m_Values: 000000000000000000000000
+>>>>>>> origin/main
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
