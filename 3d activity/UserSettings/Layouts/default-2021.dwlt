@@ -19,11 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 796.8
   m_ShowMode: 4
-<<<<<<< HEAD
   m_Title: Game
-=======
-  m_Title: Hierarchy
->>>>>>> origin/main
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -52,11 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-<<<<<<< HEAD
   controlID: 29
-=======
-  controlID: 77
->>>>>>> origin/main
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -103,13 +95,8 @@ MonoBehaviour:
     y: 0
     width: 290.4
     height: 441.6
-<<<<<<< HEAD
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
-=======
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
->>>>>>> origin/main
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -237,11 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-<<<<<<< HEAD
   controlID: 35
-=======
-  controlID: 21
->>>>>>> origin/main
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -266,11 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-<<<<<<< HEAD
   controlID: 18
-=======
-  controlID: 22
->>>>>>> origin/main
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -380,13 +359,8 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
     m_SelectedIDs: e8580000
     m_LastClickedID: 22760
-=======
-    m_SelectedIDs: e6580000
-    m_LastClickedID: 22758
->>>>>>> origin/main
     m_ExpandedIDs: 00000000e058000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -543,15 +517,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
       m_SelectedIDs: 8e580000
       m_LastClickedID: 22670
       m_ExpandedIDs: 36fbffff
-=======
-      m_SelectedIDs: 82580000
-      m_LastClickedID: 22658
-      m_ExpandedIDs: 36fbffff82580000
->>>>>>> origin/main
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -684,11 +652,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       floating: 0
       collapsed: 0
-<<<<<<< HEAD
       displayed: 1
-=======
-      displayed: 0
->>>>>>> origin/main
       snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
@@ -804,15 +768,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-<<<<<<< HEAD
     m_Target: {x: -0.5550002, y: 0.52, z: -4.09}
     speed: 2
     m_Value: {x: -0.5550002, y: 0.52, z: -4.09}
-=======
-    m_Target: {x: -0.19039102, y: 0.2965815, z: -5.5033464}
-    speed: 2
-    m_Value: {x: -0.19039102, y: 0.2965815, z: -5.5033464}
->>>>>>> origin/main
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -863,15 +821,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.1272327, y: -0.05947949, z: 0.0076440396, w: 0.9900584}
   m_Size:
-<<<<<<< HEAD
     m_Target: 4.1134357
     speed: 2
     m_Value: 4.1134357
-=======
-    m_Target: 3.7046423
-    speed: 2
-    m_Value: 3.7046423
->>>>>>> origin/main
   m_Ortho:
     m_Target: 0
     speed: 2
