@@ -345,8 +345,11 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+<<<<<<< HEAD
 "Assets/Scripts/BouncyBoi.cs"
 "Assets/Scripts/DamageTaken.cs"
+=======
+>>>>>>> origin/main
 "Assets/Scripts/Rigbody.cs"
 -langversion:9.0
 

@@ -41,8 +41,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Rigbody.cs" />
      <Compile Include="Assets\Scripts\BouncyBoi.cs" />
+     <Compile Include="Assets\Scripts\Rigbody.cs" />
      <Compile Include="Assets\Scripts\DamageTaken.cs" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Users\allen\Documents\Custom Office Templates\Unity 2021.3.0f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
