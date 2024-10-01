@@ -41,9 +41,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\scriptor\Force_Push.cs" />
-     <Compile Include="Assets\scriptor\bouncyBoi.cs" />
-     <Compile Include="Assets\scriptor\damage.cs" />
+     <Compile Include="Assets\scriptor\CharMove.cs" />
+     <Compile Include="Assets\scriptor\filptransform.cs" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Users\allen\Documents\Custom Office Templates\Unity 2021.3.0f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>

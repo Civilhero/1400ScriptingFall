@@ -19,10 +19,10 @@ MonoBehaviour:
     - Assets/Scenes/SampleScene.unity
     - Assets/Scenes/SampleScene.unity.meta
     - Assets/scriptor.meta
-    - Assets/scriptor/TransformController.cs
-    - Assets/scriptor/TransformController.cs.meta
-    - Assets/scriptor/object_movement.cs
-    - Assets/scriptor/object_movement.cs.meta
+    - Assets/scriptor/CharMove.cs
+    - Assets/scriptor/CharMove.cs.meta
+    - Assets/scriptor/filptransform.cs
+    - Assets/scriptor/filptransform.cs.meta
     - Packages/manifest.json
     - Packages/packages-lock.json
     - ProjectSettings/AudioManager.asset
