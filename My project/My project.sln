@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{e6bdc332-25e1-2831-82c1-25d0441455a3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.AI.Navigation.Samples", "Unity.AI.Navigation.Samples.csproj", "{ad36a2de-edc6-38d3-50a5-a52e83400a86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AimingRig", "AimingRig.csproj", "{bee99ddb-51e5-cff5-c266-220923d653fe}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.AI.Navigation.Samples.Editor", "Unity.AI.Navigation.Samples.Editor.csproj", "{40af65fa-1c10-55a0-0d60-d4166f95137c}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,6 +16,12 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{e6bdc332-25e1-2831-82c1-25d0441455a3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{e6bdc332-25e1-2831-82c1-25d0441455a3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ad36a2de-edc6-38d3-50a5-a52e83400a86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ad36a2de-edc6-38d3-50a5-a52e83400a86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bee99ddb-51e5-cff5-c266-220923d653fe}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bee99ddb-51e5-cff5-c266-220923d653fe}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40af65fa-1c10-55a0-0d60-d4166f95137c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40af65fa-1c10-55a0-0d60-d4166f95137c}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
