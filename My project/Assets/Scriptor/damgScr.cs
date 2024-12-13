@@ -17,5 +17,4 @@ public class damgScr : MonoBehaviour
         animator.SetBool("HitTrig", "Player" == collision.gameObject.name);
       }
     }
-
   }

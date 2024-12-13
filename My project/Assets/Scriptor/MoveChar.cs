@@ -14,6 +14,7 @@ public class MoveChar : MonoBehaviour
     private Vector2 velocity;
     private Vector2 movementVector = Vector2.zero;
     [SerializeField] private float speed;
+        
     private void Start()
     {
         controller = GetComponent<Rigidbody2D>();

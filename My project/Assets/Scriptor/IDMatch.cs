@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 public class IDMatch : MonoBehaviour
 {
@@ -20,6 +21,7 @@ public class IDMatch : MonoBehaviour
         {
             noMatch.Invoke();
             Destroy(otherID.gameObject);
+            SceneManager.LoadScene(0);
         }
     }
 }
