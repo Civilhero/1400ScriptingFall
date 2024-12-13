@@ -13,7 +13,7 @@ public class IDMatch : MonoBehaviour
         var otherID = collision.GetComponent<IDbehave>();
         if (otherID.id == id)
         {
-            match.Invoke();
+            match.Invoke(); 
             Destroy(otherID.gameObject);
         }
         else

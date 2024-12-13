@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MoveChar : MonoBehaviour
 {
@@ -22,8 +23,10 @@ public class MoveChar : MonoBehaviour
     {
         MoveCharacter();
         KeepCharacterOnAxis();
+        quitgame();
     }
 
+    
     private void Jumping()
     {
         controller.velocity = new Vector2(controller.velocity.x, jumphight);
@@ -43,6 +46,14 @@ public class MoveChar : MonoBehaviour
         var currentPosition = thisTransform.position;
         currentPosition.z = 0f;
         thisTransform.position = currentPosition;
+    }
+
+    public void quitgame()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene(0);
+        }
     }
 }
 
